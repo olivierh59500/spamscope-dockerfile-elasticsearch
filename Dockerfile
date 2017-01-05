@@ -1,7 +1,7 @@
 FROM fmantuano/apache-storm
 MAINTAINER Fedele Mantuano "mantuano.fedele@gmail.com"
-ENV REFRESHED_AT="2016-12-21" \
-    SPAMSCOPE_VER="v1.3rc4" \
+ENV REFRESHED_AT="2017-01-05" \
+    SPAMSCOPE_VER="v1.3" \
     STORM_VER="1.0.2" \
     STREAMPARSE_VER="3.3.0" \
     TIKA_APP_JAR_VER="1.14"
